@@ -47,4 +47,4 @@ Thumbs.db
 
 # Allow Twistlock Splunk App to be tracked #
 ############################################
-!pcc-splunk-app-*.tar.gz
+!pcc-splunk-app-*.tar.gzcomputeAPI/setupForCostco
